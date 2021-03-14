@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exemplo Internacionalização</string>
+    <string name="tv_nome">Nome</string>
+    <string name="btn_mensagem">Mensagem</string>
+    <string name="ola_msg">Olá</string>
+</resources>
