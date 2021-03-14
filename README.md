@@ -10,5 +10,5 @@ Exemplo em aula do uso do Linear Layout.
 Aplicativo para calcular qual combustível é mais vantajoso. Este exemplo utiliza **ConstraintLayout** e **Intents**.
 
 <p align="center">
-<img src="./imagens/ImagemAlcoolGasolina.png" width="40%" height="40%">
+<img src="./imagens/ImagemAlcoolGasolina.png" width="50%" height="50%">
 </p> 
