@@ -22,3 +22,6 @@ Exemplo do uso de recursos de internacionalização.
 
 ## DesafioImagem
 Resolução do Desafio 01.
+
+## Desafio02
+Resolução do Desafio 02.
