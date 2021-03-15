@@ -19,3 +19,6 @@ Exemplo do uso de recursos de internacionalização.
 <p align="center">
 <img src="./imagens/ImagemExemploInternacionalizao.png" width="50%" height="50%">
 </p> 
+
+## DesafioImagem
+Resolução do Desafio 01.
