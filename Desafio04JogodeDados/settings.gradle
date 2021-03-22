@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Desafio 04 - Jogo de Dados"
